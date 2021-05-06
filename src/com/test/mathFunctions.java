@@ -34,7 +34,7 @@ public class mathFunctions {
 	public void deleteAllCookies() {
 		System.out.println("delete All Cookies");
 	}
-	/*********************/
+	
 
 	@AfterClass
 	public void closeBrowser() {
